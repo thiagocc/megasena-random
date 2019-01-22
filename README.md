@@ -4,8 +4,8 @@
 
 Sorteio de números para a Mega Sena, mais conhecido como "Surpresinha"!
 
-  - Node.js
-  - Escolha quantidade de jogos e run!
+  - JS/Node.js
+  - Escolha a quantidade de jogos e run!
   - Boa sorte!
 
 ```sh
