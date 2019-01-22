@@ -1,6 +1,6 @@
 function sortear(qtde_jogos) {
 
-    for (let i = 0; i < qtde_jogos; i++) {
+    for (var i = 0; i < qtde_jogos; i++) {
         
         var numeros = [];
 
