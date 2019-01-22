@@ -4,7 +4,7 @@
   "description": "Sorteio de números para a Mega Sena",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jshint app.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/thiagocc/megasena-random/issues"
   },
-  "homepage": "https://github.com/thiagocc/megasena-random#readme"
+  "homepage": "https://github.com/thiagocc/megasena-random#readme",
+  "devDependencies": {
+    "jshint": "^2.9.7"
+  }
 }
